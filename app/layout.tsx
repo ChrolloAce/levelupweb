@@ -3,9 +3,9 @@ import './globals.css'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'LevelUp Web - Professional Web Solutions',
-  description: 'Professional web development services and solutions for modern businesses.',
-  keywords: 'web development, professional services, modern web solutions',
+  title: 'LevelUp Web - Habit Tracking App',
+  description: 'Master your habits and level up your life. Track progress, build consistency, and achieve your personal development goals.',
+  keywords: 'habit tracker, personal development, goal setting, productivity app',
 }
 
 export default function RootLayout({
